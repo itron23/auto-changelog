@@ -1,6 +1,6 @@
 {
   "name": "auto-changelog",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": "https://github.com/itron23/auto-changelog.git",
   "author": "itron23 <118995886+itron23@users.noreply.github.com>",
