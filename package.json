@@ -6,6 +6,10 @@
   "author": "itron23 <118995886+itron23@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
   }
 }
