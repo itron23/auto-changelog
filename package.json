@@ -1,0 +1,11 @@
+{
+  "name": "auto-changelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/itron23/auto-changelog.git",
+  "author": "itron23 <118995886+itron23@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
